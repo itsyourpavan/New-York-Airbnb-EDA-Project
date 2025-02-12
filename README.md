@@ -90,7 +90,7 @@ The dataset contains **20,765 entries and 22 features**, including:
 ## How to Run This Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/itsyourpavan/New-York-Airbnb-EDA-Project.git
+   git clone https://github.com/pavan-analytics/New-York-Airbnb-EDA-Project.git
    ```
 2. Install the required libraries:
    ```bash
